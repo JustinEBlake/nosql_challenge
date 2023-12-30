@@ -5,14 +5,14 @@
 
 ## Part 1: Database and Jupyter Notebook Set Up
 - Import data
-- List the Databases and collections of 'uk_food' db.
-- Assign 'establishments' collection to a variable.
+- List the Databases and collections of `uk_food` db.
+- Assign `establishments` collection to a variable.
 
 ## Part 2: Update the Database
 - Insert data for Penang Flavours Restaurant
 - Update Penang Flavors' `BusinessID`
 - Convert all `latitude` and `longitude` fields to float
-- Convert all `RatingValue ` fields to integers
+- Convert all `RatingValue` fields to integers
 
 📁 nosql_challenge/[NoSQL_setup_starter.ipynb](https://github.com/JustinEBlake/nosql_challenge/blob/master/NoSQL_setup_starter.ipynb)
 
